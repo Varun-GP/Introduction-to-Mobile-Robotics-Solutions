@@ -10,3 +10,5 @@ Among other topics, we will discuss:
 4) Map building
 5) SLAM
 6) Path planning
+
+Reference Book: Probabilistic ROBOTICS by Sebastian Thrun, Wolfram Burgard, Dieter Fox
